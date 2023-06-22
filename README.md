@@ -8,3 +8,5 @@
 AAmir007-code/AAmir007-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## He is my leetcode activity status:
+![](https://leetcard.jacoblin.cool/anonscr00?theme=forest&font=Darker%20Grotesque&ext=activity)
